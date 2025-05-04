@@ -6,6 +6,8 @@ On this article we will compare 3 algorithms:
 * CDT’s fixation idenfication algorithm veneri2011
 * a machine learning based on XGBoost
 
+![fixations xgboost](fixations_xgboost.png)
+
 ## reference
 [veneri2011] Giacomo Veneri, Pietro Piu, Francesca Rosini, Pamela Federighi, Antonio Federico, Alessandra Rufa, Automatic eye fixations identification based on analysis of variance and covariance, Pattern Recognition Letters, Volume 32, Issue 13, 2011, Pages 1588–1593, ISSN 0167–8655, https://doi.org/10.1016/j.patrec.2011.06.012.
 
