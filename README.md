@@ -8,6 +8,14 @@ On this article we will compare 3 algorithms:
 
 ![fixations xgboost](fixations_xgboost.png)
 
+## how to work
+
+     pip install xgboost pandas numpy notebook
+
+the start with
+
+     jupyter lab
+
 ## reference
 [veneri2011] Giacomo Veneri, Pietro Piu, Francesca Rosini, Pamela Federighi, Antonio Federico, Alessandra Rufa, Automatic eye fixations identification based on analysis of variance and covariance, Pattern Recognition Letters, Volume 32, Issue 13, 2011, Pages 1588–1593, ISSN 0167–8655, https://doi.org/10.1016/j.patrec.2011.06.012.
 
